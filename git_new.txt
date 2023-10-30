@@ -1,2 +1,2 @@
 This is new project-1
-making for NodeMCU
+making for NodeMCU c1
