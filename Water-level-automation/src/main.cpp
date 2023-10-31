@@ -3,14 +3,14 @@
 
 void setup()
 {
-    pinMode(BUILTIN_LED,HIGH);
+    pinMode(LED_BUILTIN,HIGH);
 
 }
 
 void loop()
 {
-    pinMode(BUILTIN_LED,HIGH);
+    pinMode(LED_BUILTIN,HIGH);
     delay(100);
-    pinMode(BUILTIN_LED,LOW);
+    pinMode(LED_BUILTIN,LOW);
     delay(1000);
 }
