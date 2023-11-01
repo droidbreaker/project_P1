@@ -1,1 +1,1 @@
-print("this is new nodeMCU project 1\n");
+print("trying new nodemcu micropython coding.\n")
